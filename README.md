@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there! I'm Wangarijane 👋
 
-<!--
-**Wangarijane/Wangarijane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner in full-stack development, passionate about learning new technologies and building projects that solve real-world problems. Currently, I’m working on improving my skills in web development.
 
-Here are some ideas to get you started:
+### Current Learning Goals 🎯
+- Learning the fundamentals of HTML, CSS, and JavaScript
+- Getting started with React for front-end development
+- Exploring Node.js and Express for back-end development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools 🔧
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js (beginner)
+- Tools: Git, GitHub, VS Code
+
+### Current Projects 🚀
+- **Personal Portfolio**: Building my first portfolio website to showcase my skills and projects.
+
+### How to Reach Me 📬
+- **Email**: muriithijane400@gmail.com
