@@ -2,8 +2,6 @@
 I’m a growing **MERN Stack Developer** passionate about building modern, user-friendly, and impactful web applications.  
 I enjoy learning new technologies and applying them to solve real-world problems.  
 
-![coding gif](https://i.gifer.com/7Im2.gif)  
-
 ---
 
 ## 🎯 Current Learning Goals  
