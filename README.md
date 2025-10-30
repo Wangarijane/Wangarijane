@@ -14,7 +14,7 @@ I focus on clean code, thoughtful architecture, and bringing real-world ideas to
 
 ## 🧠 Software Engineering Principles  
 I believe software should be **reliable, maintainable, and user-focused**.  
-Every project I build is structured to scale — with attention to performance, testing, and simplicity.
+Every project I build is structured to scale with attention to performance, testing, and simplicity.
 
 ---
 
